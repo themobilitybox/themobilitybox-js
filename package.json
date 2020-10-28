@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/themobilitybox/themobilitybox-js/issues"
   },
-  "homepage": "https://themobilitybox.com"
+  "homepage": "https://themobilitybox.com",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
 }
