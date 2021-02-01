@@ -1,3 +1,7 @@
+# OUTDATED
+
+This project is Outdated and not supported anymore in favour of [/themobilitybox/mobilitybox-js](https://github.com/themobilitybox/mobilitybox-js).
+
 # @themobilitybox/themobilitybox
 
 JavaScript Library to Access [The Mobilitybox](https://themobilitybox.com).
